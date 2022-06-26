@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolCards", "CoolCards\CoolCards.csproj", "{958F0E1E-FA20-49E9-B959-8FB937B0984E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958F0E1E-FA20-49E9-B959-8FB937B0984E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958F0E1E-FA20-49E9-B959-8FB937B0984E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958F0E1E-FA20-49E9-B959-8FB937B0984E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958F0E1E-FA20-49E9-B959-8FB937B0984E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {091639A5-C0A3-48E4-8615-8E44BF24C7E9}
+	EndGlobalSection
+EndGlobal
